@@ -228,8 +228,8 @@ const char* password = "YourWiFiPassword";
 ### Control Panel Features
 
 - **Distance**: Shows current detected object distance (100 cm in example)
-- **Angle**: Shows current servo/sensor position (133° in example)
-- **Speed**: Controls radar rotation speed (1-5)
+- **Angle**: Shows current servo/sensor position (140° in example)
+- **Speed**: Controls radar rotation speed (1-10)
 - **Angle Buttons**: Click to manually position radar at specific angles (0° to 360°)
 - **Auto Scan Toggle**: Enable/disable automatic scanning
 
