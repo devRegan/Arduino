@@ -509,5 +509,5 @@ If you have any questions or suggestions, please open an issue or contact me at 
 ---
 
 <div align="center">
-  Made by <a href="https://github.com/yourusername">Regan</a>
+  Made by <a href="https://github.com/devRegan">Regan</a>
 </div>
