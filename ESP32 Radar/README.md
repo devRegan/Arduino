@@ -236,9 +236,9 @@ const char* password = "YourWiFiPassword";
 6. The radar display shows detected objects in real-time:
 
 
-![alt text](https://github.com/devRegan/Arduino/blob/bc9cebc9ecb5c52431720698462b53d1632978c7/ESP32%20Radar/images/Radar%20display.jpeg)
-
-
+<div align="center">
+  <img src="https://github.com/devRegan/Arduino/blob/bc9cebc9ecb5c52431720698462b53d1632978c7/ESP32%20Radar/images/Radar%20display.jpeg" alt="Radar Display" width="300"/>
+</div>
 
 
 ## 🚀 How It Works
