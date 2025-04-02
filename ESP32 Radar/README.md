@@ -22,7 +22,7 @@
 | **Red LED (+)** | GPIO 22 | Turns on when object is too close |
 | **GND (Both LEDs)** (Black) | GND | Common ground |
 
-## Joystick Module
+## Joystick
 | Pin | ESP32 Pin | Description |
 |------|---------|-------------|
 | **VCC** (Red) | 3.3V / 5V | Power |
