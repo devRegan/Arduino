@@ -13,8 +13,8 @@
 #define JOYSTICK_Y_PIN 35
 #define JOYSTICK_SW_PIN 32
 
-const char* ssid = "Regan_ESP32(Radar)";
-const char* password = "ESP3219970205";
+const char* ssid = "YourWiFiName";
+const char* password = "YourWiFiPassword";
 
 IPAddress local_IP(192, 168, 4, 1);
 IPAddress gateway(192, 168, 4, 1);
