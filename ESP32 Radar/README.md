@@ -222,7 +222,7 @@ const char* password = "YourWiFiPassword";
 5. The radar control interface will load:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/esp32-radar-system/main/images/control-interface.png" alt="Radar Control Interface" width="500"/>
+  <img src="https://github.com/devRegan/Arduino/blob/bc9cebc9ecb5c52431720698462b53d1632978c7/ESP32%20Radar/images/Radar%20display.jpeg" alt="Radar Display" width="300"/>
 </div>
 
 ### Control Panel Features
@@ -235,10 +235,10 @@ const char* password = "YourWiFiPassword";
 
 6. The radar display shows detected objects in real-time:
 
-
 <div align="center">
-  <img src="https://github.com/devRegan/Arduino/blob/bc9cebc9ecb5c52431720698462b53d1632978c7/ESP32%20Radar/images/Radar%20display.jpeg" alt="Radar Display" width="300"/>
+  <img src="https://github.com/devRegan/Arduino/blob/4a276fbbe0d8bf8939cd53cd7697fca1f9fe7525/ESP32%20Radar/images/Controller%20display.jpeg?raw=true" alt="Controller Display" width="300"/>
 </div>
+
 
 
 ## 🚀 How It Works
