@@ -238,6 +238,7 @@ const char* password = "YourWiFiPassword";
 <div align="center">
   <img src="https://raw.githubusercontent.com/yourusername/esp32-radar-system/main/images/radar-display.png" alt="Radar Display" width="500"/>
 </div>
+![alt text](<images/Controller display.jpeg>)
 
 ## 🚀 How It Works
 
