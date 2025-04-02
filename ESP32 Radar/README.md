@@ -200,7 +200,7 @@ WebSocketsServer
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/esp32-radar-system.git
+git clone https://github.com/devRegan/Arduino.git
 ```
 
 2. Open `ESP32_Radar_System.ino` in Arduino IDE
